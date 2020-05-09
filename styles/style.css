@@ -1,3 +1,8 @@
+/* * {
+  outline-width: 1px;
+  outline-style: solid;
+  outline-color: green; //или другой удобный цвет
+} */
 .page {
     min-width: 1100px;
     /* мы ещё не умеем делать мобильную версию сайта, */
